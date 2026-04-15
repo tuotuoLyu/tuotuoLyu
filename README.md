@@ -12,25 +12,34 @@
 
 ---
 
-### 🧬 About Me
+## 🧬 About Me
 
-```python
-class Researcher:
-    name     = "Mingyang Lyu (吕明扬)"
-    location = "Beijing, China 🇨🇳"
-    affil    = "CASIA · UCAS"
-    degree   = "M.Sc. Pattern Recognition & AI"
+<table>
+<tr>
+<td width="50%">
 
-    interests = [
-        "Embodied AI & VLA Models",
-        "RL Fine-tuning (PPO / Flow-Matching)",
-        "LLM Safety & Alignment",
-        "Spiking Neural Networks",
-    ]
+🎓 &nbsp; **M.Sc.** @ CASIA · UCAS, Beijing
 
-    internships = ["Ant Group 🐜", "Amap/Gaode 📍"]
-    motto = "Safe robots, robust policies 🤖"
-```
+🤖 &nbsp; **Embodied AI** · VLA Models · RL Fine-tuning
+
+🛡️ &nbsp; **LLM Safety** & Alignment
+
+⚡ &nbsp; **Spiking Neural Networks** · Neuromorphic AI
+
+</td>
+<td width="50%">
+
+🐜 &nbsp; Ex-intern @ **Ant Group** (AI Safety)
+
+📍 &nbsp; Ex-intern @ **Amap / Gaode** (Embodied Vision)
+
+🏆 &nbsp; **ICRA 2026** · **PNAS 2025** · ICML · IROS · ECCV
+
+💬 &nbsp; *"Safe robots, robust policies."*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,11 +89,6 @@ class Researcher:
 ## 📊 Stats & Activity
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tuotuoLyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuotuoLyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=tuotuoLyu&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
