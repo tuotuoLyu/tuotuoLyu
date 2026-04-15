@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🤖+Building+Safe+Embodied+AI+Systems...;🧠+Flow+Matching+%2B+RL+%3D+FPO+%40+ICRA+2026;⚡+Spiking+Neural+Networks+for+Decisions;🛡️+Making+VLAs+Safe%2C+One+Policy+at+a+Time" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-lvmingyang2024%40ia.ac.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvmingyang2024@ia.ac.cn)
 [![CASIA](https://img.shields.io/badge/Institute-CASIA-0078D4?style=for-the-badge&logo=academia&logoColor=white)](http://www.ia.ac.cn)
@@ -17,8 +11,6 @@
 </div>
 
 ---
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=tuotuoLyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 
 ### 🧬 About Me
 
@@ -39,16 +31,6 @@ class Researcher:
     internships = ["Ant Group 🐜", "Amap/Gaode 📍"]
     motto = "Safe robots, robust policies 🤖"
 ```
-
-<br clear="right"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tuotuoLyu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
 
 ---
 
@@ -76,14 +58,9 @@ class Researcher:
 
 <div align="center">
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Frameworks & Tools**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -103,20 +80,14 @@ class Researcher:
 ## 📊 Stats & Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuotuoLyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=tuotuoLyu&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-</div>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tuotuoLyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuotuoLyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tuotuoLyu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=tuotuoLyu&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tuotuoLyu/tuotuoLyu/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 ---
