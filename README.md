@@ -53,7 +53,7 @@
 | **ForesightSafety-VLA**: Unified VLA Safety Benchmark | IROS 2026 | 🥇 1st Author | 🔄 |
 | **CoMaTrack**: Competitive Multi-Agent Tracking via VLA | ECCV 2026 | 🥈 2nd Author | 🔄 |
 | **NGSD**: Light Alignment via Single-Neuron Self-Reflection | ICML 2026 | 🥈 2nd Author | 🔄 |
-| **TEFormer**: Bidirectional Temporal Enhancement in Spiking Transformers | ICML 2026 | 🤝 Co-1st | 🔄 |
+| **TEFormer**: Bidirectional Temporal Enhancement in Spiking Transformers | ICML 2026 | 🤝 2nd| 🔄 |
 | **Spiking World Model** with Multi-Compartment Neurons | **PNAS 2025** | 3rd Author | ✅ |
 | **SafeMind**: Safety Risks in Embodied LLM Agent Planning | ACL ARR | 4th Author | 🔄 |
 
