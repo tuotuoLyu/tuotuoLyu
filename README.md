@@ -1,101 +1,72 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Mingyang%20Lyu&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Embodied%20AI%20·%20RL%20·%20VLA%20Safety%20·%20SNN&descSize=18&descAlignY=60&descColor=8b949e"/>
-</div>
+<p align="center">
+  <img src="profile-header.svg" width="100%" alt="Mingyang Lyu — Robot learning, world models, and safe embodied intelligence">
+</p>
 
-<div align="center">
+<p align="center">
+  <b>PhD student · CASIA &amp; Zhongguancun Academy</b>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Email-lvmingyang2024%40ia.ac.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lvmingyang2024@ia.ac.cn)
-[![CASIA](https://img.shields.io/badge/Institute-CASIA-0078D4?style=for-the-badge&logo=academia&logoColor=white)](http://www.ia.ac.cn)
-![Visitors](https://komarev.com/ghpvc/?username=tuotuoLyu&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=sCrVbNsAAAAJ">Google Scholar</a> &nbsp; / &nbsp;
+  <a href="https://openreview.net/profile?id=~Mingyang_Lyu2">OpenReview</a> &nbsp; / &nbsp;
+  <a href="https://orcid.org/0009-0000-6374-9113">ORCID</a> &nbsp; / &nbsp;
+  <a href="mailto:lvmingyang2024@ia.ac.cn">Email</a>
+</p>
 
-</div>
+## About
 
----
+I study how embodied agents can **learn, imagine, and act reliably**. My work connects reinforcement learning, vision-language-action models, world models, and AI safety.
 
-## 🧬 About Me
+- **Institute of Automation, Chinese Academy of Sciences (CASIA)** — National Key Laboratory of Cognition and Decision Intelligence for Complex Systems; working with [Pin Lyu](https://people.ucas.ac.cn/~lvpin).
+- **Zhongguancun Academy** — advised by [Chen Gao](https://fi.ee.tsinghua.edu.cn/~gaochen/).
+
+<sub>Previously: M.Sc. at CASIA / UCAS · B.Eng. in Automation at Xi’an Jiaotong University · Internships at Ant Group and Amap.</sub>
+
+## Research focus
 
 <table>
-<tr>
-<td width="50%">
-
-🎓 &nbsp; **M.Sc.** @ CASIA · UCAS, Beijing
-
-🤖 &nbsp; **Embodied AI** · VLA Models · RL Fine-tuning
-
-🛡️ &nbsp; **LLM Safety** & Alignment
-
-⚡ &nbsp; **Spiking Neural Networks** · Neuromorphic AI
-
-</td>
-<td width="50%">
-
-🐜 &nbsp; Ex-intern @ **Ant Group** (AI Safety)
-
-📍 &nbsp; Ex-intern @ **Amap / Gaode** (Embodied Vision)
-
-🏆 &nbsp; **ICRA 2026** · **PNAS 2025** · ICML · IROS · ECCV
-
-💬 &nbsp; *"Safe robots, robust policies."*
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>01 · Robot learning</b><br>
+      <sub>VLA policies, flow matching, and reinforcement fine-tuning.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>02 · World models</b><br>
+      <sub>Learning dynamics and representations for model-based control.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>03 · Safe intelligence</b><br>
+      <sub>Embodied safety evaluation, robust execution, and LLM alignment.</sub>
+    </td>
+  </tr>
 </table>
 
----
+## Selected work
 
-## 📄 Publications
+| Project | Research & resources |
+| :--- | :--- |
+| **FPO**<br><sub>ICRA 2026 · Co-first author</sub> | **Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models**<br>Online reinforcement learning for flow-matching VLA policies.<br>[Paper](https://arxiv.org/abs/2510.09976) · [Code](https://github.com/tuotuoLyu/FPO) |
+| **ForesightSafety-VLA**<br><sub>IROS 2026 · Co-first author</sub> | **A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**<br>Diagnosing physical, instruction, and perception risks in robot policies.<br>[Paper](https://arxiv.org/abs/2606.27079) · [Code](https://github.com/tuotuoLyu/ForesightSafety-VLA) |
+| **Spiking-WM**<br><sub>PNAS 2025</sub> | **Spiking world model with multicompartment neurons for model-based reinforcement learning**<br>Connecting dendritic computation, spiking networks, and world models.<br>[Paper](https://doi.org/10.1073/pnas.2513319122) · [Code](https://github.com/Brain-Cog-Lab/Spiking-WM) |
 
-<div align="center">
+<details>
+<summary><b>More papers</b></summary>
 
-| 🗂️ Paper | 🏛️ Venue | 👤 Role | 📌 |
-|:---------|:---------|:--------|:---|
-| **FPO**: RL Fine-Tuning of Flow-Matching Policies for VLA | **ICRA 2026** | 🥇 1st Author | ✅ |
-| **ForesightSafety-VLA**: Unified VLA Safety Benchmark | IROS 2026 | 🥇 1st Author | 🔄 |
-| **CoMaTrack**: Competitive Multi-Agent Tracking via VLA | ECCV 2026 | 🥈 2nd Author | 🔄 |
-| **NGSD**: Light Alignment via Single-Neuron Self-Reflection | ICML 2026 | 🥈 2nd Author | 🔄 |
-| **TEFormer**: Bidirectional Temporal Enhancement in Spiking Transformers | ICML 2026 | 🤝 2nd| 🔄 |
-| **Spiking World Model** with Multi-Compartment Neurons | **PNAS 2025** | 3rd Author | ✅ |
-| **SafeMind**: Safety Risks in Embodied LLM Agent Planning | ACL ARR | 4th Author | 🔄 |
+- [TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](https://arxiv.org/abs/2601.18274)
+- [Light Alignment Improves LLM Safety via Model Self-Reflection with a Single Neuron](https://arxiv.org/abs/2602.02027)
+- [CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models](https://arxiv.org/abs/2603.22846)
+- [SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/abs/2509.25885)
 
-✅ Accepted &emsp; 🔄 Under Review
+</details>
 
-</div>
+[Full publication list →](https://scholar.google.com/citations?user=sCrVbNsAAAAJ)
 
----
+## Notes & tools
 
-## ⚡ Tech Arsenal
+**[Physical Intelligence research notes](https://github.com/tuotuoLyu/physical-intelligence-survey)** — a Chinese-language review of the π-series robot foundation models, from architectures and training signals to deployment.
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NVIDIA](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-**RL Algorithms:** `PPO` `SAC` `Flow-Matching` `Diffusion Policy` `World Models` `RLHF` `DPO`
-
-**Simulators:** `Isaac Gym` `MuJoCo` `Omniverse` `RoboTwin` `LIBERO` `ALOHA`
-
-</div>
+<sub>Python · JAX · PyTorch · C++ · ROS · MuJoCo · RoboTwin · LIBERO · Isaac Sim · LaTeX</sub>
 
 ---
 
-## 📊 Stats & Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tuotuoLyu&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-
-</div>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer"/>
-</div>
+<p align="center"><sub>Let's talk about robot learning, world models, and safe embodied AI.<br><a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a></sub></p>

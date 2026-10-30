@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mingyang Lyu</title>
+  <desc id="desc">Robot learning, world models, and safe embodied intelligence. Safe robots. Robust policies.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#101C30"/><stop offset="1" stop-color="#0B1221"/></linearGradient>
+    <linearGradient id="accent" x1="750" y1="50" x2="1130" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#69B7FF"/><stop offset="1" stop-color="#52D6C1"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#246F8E" stop-opacity=".36"/><stop offset="1" stop-color="#246F8E" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#64809C" fill-opacity=".15"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="160" rx="290" ry="240" fill="url(#glow)"/>
+    <path d="M54 53H86" stroke="#52D6C1" stroke-width="3" stroke-linecap="round"/>
+    <text x="99" y="58" fill="#B9D0E4" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">EMBODIED INTELLIGENCE</text>
+    <text x="52" y="135" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Mingyang Lyu</text>
+    <text x="55" y="176" fill="#AFC4D8" font-family="Arial, Helvetica, sans-serif" font-size="19">Robot learning · World models · AI safety</text>
+    <rect x="54" y="218" width="262" height="30" rx="15" fill="#182C3F" stroke="#284657"/>
+    <circle cx="71" cy="233" r="3" fill="#52D6C1"/>
+    <text x="83" y="238" fill="#B6E8DD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing=".5">SAFE ROBOTS. ROBUST POLICIES.</text>
+    <g stroke="#70AED3" stroke-opacity=".2">
+      <ellipse cx="1000" cy="150" rx="152" ry="104" transform="rotate(-30 1000 150)"/>
+      <ellipse cx="1000" cy="150" rx="152" ry="104" transform="rotate(30 1000 150)"/>
+      <circle cx="1000" cy="150" r="98"/>
+      <path d="M792 150H1178M1000 21V279" stroke-dasharray="3 8"/>
+    </g>
+    <path d="M807 218C851 218 855 99 910 99C961 99 950 204 1003 204C1056 204 1049 80 1138 71" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#0F2030" stroke="url(#accent)" stroke-width="2">
+      <circle cx="807" cy="218" r="6"/><circle cx="910" cy="99" r="6"/><circle cx="1003" cy="204" r="6"/><circle cx="1138" cy="71" r="6"/>
+    </g>
+    <g fill="#78CFCB"><circle cx="1000" cy="150" r="4"/><circle cx="878" cy="216" r="2"/><circle cx="1077" cy="230" r="2"/><circle cx="1117" cy="146" r="2"/></g>
+    <path d="M0 298H1200" stroke="url(#accent)" stroke-width="4"/>
+  </g>
+</svg>
