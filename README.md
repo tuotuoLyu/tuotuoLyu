@@ -47,6 +47,7 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 | :--- | :--- |
 | **FPO**<br><sub>ICRA 2026 · Co-first author</sub> | **Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models**<br>Online reinforcement learning for flow-matching VLA policies.<br>[Paper](https://arxiv.org/abs/2510.09976) · [Code](https://github.com/tuotuoLyu/FPO) |
 | **ForesightSafety-VLA**<br><sub>IROS 2026 · Co-first author</sub> | **A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**<br>Diagnosing physical, instruction, and perception risks in robot policies.<br>[Paper](https://arxiv.org/abs/2606.27079) · [Code](https://github.com/tuotuoLyu/ForesightSafety-VLA) |
+| **CoMaTrack**<br><sub>ECCV 2026 · Third author</sub> | **Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**<br>Competitive multi-agent reinforcement learning for embodied visual tracking.<br>[Paper · ECCV](https://eccv.ecva.net/virtual/2026/poster/3708) · [Proceedings](https://link.springer.com/chapter/10.1007/978-3-032-37574-2_14) |
 | **Spiking-WM**<br><sub>PNAS 2025</sub> | **Spiking world model with multicompartment neurons for model-based reinforcement learning**<br>Connecting dendritic computation, spiking networks, and world models.<br>[Paper](https://doi.org/10.1073/pnas.2513319122) · [Code](https://github.com/Brain-Cog-Lab/Spiking-WM) |
 
 <details>
@@ -54,7 +55,6 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 - [TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](https://arxiv.org/abs/2601.18274)
 - [Light Alignment Improves LLM Safety via Model Self-Reflection with a Single Neuron](https://arxiv.org/abs/2602.02027)
-- [CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models](https://arxiv.org/abs/2603.22846)
 - [SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/abs/2509.25885)
 
 </details>
@@ -79,7 +79,7 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 <sub>Dec 2025 – Feb 2026 · Research Intern · CoMaTrack</sub>
 
 - Research competitive multi-agent tracking and game-theoretic interactions for VLA policies.
-- Contributed to [CoMaTrack](https://arxiv.org/abs/2603.22846), accepted to ECCV 2026.
+- Third author of [CoMaTrack](https://eccv.ecva.net/virtual/2026/poster/3708), published in the ECCV 2026 proceedings.
 
 ### Ant Group (蚂蚁集团)
 <sub>Oct 2025 – Dec 2025 · AI Safety Research</sub>
