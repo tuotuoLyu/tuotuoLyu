@@ -10,7 +10,7 @@
   <a href="https://scholar.google.com/citations?user=sCrVbNsAAAAJ">Google Scholar</a> &nbsp; / &nbsp;
   <a href="https://openreview.net/profile?id=~Mingyang_Lyu2">OpenReview</a> &nbsp; / &nbsp;
   <a href="https://orcid.org/0009-0000-6374-9113">ORCID</a> &nbsp; / &nbsp;
-  <a href="mailto:lvmingyang2024@ia.ac.cn">Email</a>
+  <a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a>
 </p>
 
 ## About
@@ -20,7 +20,7 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 - **Institute of Automation, Chinese Academy of Sciences (CASIA)** — National Key Laboratory of Cognition and Decision Intelligence for Complex Systems; working with [Pin Lyu](https://people.ucas.ac.cn/~lvpin).
 - **Zhongguancun Academy** — advised by [Chen Gao](https://fi.ee.tsinghua.edu.cn/~gaochen/).
 
-<sub>Previously: M.Sc. at CASIA / UCAS · B.Eng. in Automation at Xi’an Jiaotong University · Internships at Ant Group and Amap.</sub>
+<sub>Background: B.Eng. in Automation, Xi’an Jiaotong University (2024) · Graduate research at CASIA / UCAS since 2024.</sub>
 
 ## Research focus
 
@@ -60,6 +60,47 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 </details>
 
 [Full publication list →](https://scholar.google.com/citations?user=sCrVbNsAAAAJ)
+
+## Research & industry experience
+
+### WILL · WizardQuant (宽德投资)
+<sub>Aug 2026 – Present · Physical simulation & foundation-model post-training</sub>
+
+- Develop and debug physics simulation environments.
+- Work on reinforcement-learning post-training for foundation models.
+
+### 细胞壁科技
+<sub>Mar 2026 – Jul 2026 · Research Intern</sub>
+
+- Study cross-episode memory and in-context learning for frozen VLA backbones.
+- Explore memory-augmented human–robot interaction to improve adaptation and sample efficiency.
+
+### Amap (高德地图)
+<sub>Dec 2025 – Feb 2026 · Research Intern · CoMaTrack</sub>
+
+- Research competitive multi-agent tracking and game-theoretic interactions for VLA policies.
+- Contributed to [CoMaTrack](https://arxiv.org/abs/2603.22846), accepted to ECCV 2026.
+
+### Ant Group (蚂蚁集团)
+<sub>Oct 2025 – Dec 2025 · AI Safety Research</sub>
+
+- Research lightweight, transferable inference-time safety alignment for LLMs.
+- Contributed to [single-neuron self-reflection for LLM safety](https://arxiv.org/abs/2602.02027), balancing generation safety and model utility.
+
+## Service & engineering
+
+- **Reviewer — CoRL 2026.**
+- **Electrical Control Lead — XJTU Intelligent Robotics Team** (Sep 2022 – Sep 2023). Led embedded control, motor-drive, power, and communication-system development; worked on sensor fusion and visual tracking across 10+ robot prototypes.
+- **National Undergraduate Innovation Project** (Sep 2021 – Dec 2022). Developed an Intel-based driving-safety assistance system, integrating lane-departure and fatigue detection with embedded control and real-time data processing.
+
+<details>
+<summary><b>Selected honors</b></summary>
+
+- **Third Place**, Zhongguancun Academy Hackathon & Innovation Competition, 2025.
+- **Third Prize (Shaanxi)**, National Undergraduate Electronics Design Contest, 2023.
+- **Third Prize**, Xi’an Jiaotong University “Tengfei Cup” Innovation & Entrepreneurship Competition, 2023.
+
+</details>
 
 ## Notes & tools
 
