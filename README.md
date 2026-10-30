@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=sCrVbNsAAAAJ">Google Scholar</a> &nbsp; / &nbsp;
-  <a href="https://openreview.net/profile?id=~Mingyang_Lyu2">OpenReview</a> &nbsp; / &nbsp;
-  <a href="https://orcid.org/0009-0000-6374-9113">ORCID</a> &nbsp; / &nbsp;
-  <a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a>
+  <a href="https://scholar.google.com/citations?user=sCrVbNsAAAAJ"><img src="assets/link-scholar.svg" width="160" alt="Google Scholar"></a>
+  <a href="https://openreview.net/profile?id=~Mingyang_Lyu2"><img src="assets/link-openreview.svg" width="135" alt="OpenReview"></a>
+  <a href="https://orcid.org/0009-0000-6374-9113"><img src="assets/link-orcid.svg" width="99" alt="ORCID"></a>
+  <a href="mailto:lvmingyang2024@ia.ac.cn"><img src="assets/link-email.svg" width="254" alt="lvmingyang2024@ia.ac.cn"></a>
 </p>
 
 ## About
@@ -24,31 +24,44 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 ## Research focus
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>01 · Robot learning</b><br>
-      <sub>VLA policies, flow matching, and reinforcement fine-tuning.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>02 · World models</b><br>
-      <sub>Learning dynamics and representations for model-based control.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>03 · Safe intelligence</b><br>
-      <sub>Embodied safety evaluation, robust execution, and LLM alignment.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/research-learning.svg" width="250" alt="Robot learning: VLA policies, flow matching, and reinforcement fine-tuning">
+  <img src="assets/research-world-models.svg" width="250" alt="World models: dynamics, memory, and model-based robot control">
+  <img src="assets/research-safety.svg" width="250" alt="Safe intelligence: embodied safety, reliability, and LLM alignment">
+</p>
 
 ## Selected work
 
-| Project | Research & resources |
-| :--- | :--- |
-| **FPO**<br><sub>ICRA 2026 · Co-first author</sub> | **Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models**<br>Online reinforcement learning for flow-matching VLA policies.<br>[Paper](https://arxiv.org/abs/2510.09976) · [Code](https://github.com/tuotuoLyu/FPO) |
-| **ForesightSafety-VLA**<br><sub>IROS 2026 · Co-first author</sub> | **A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**<br>Diagnosing physical, instruction, and perception risks in robot policies.<br>[Paper](https://arxiv.org/abs/2606.27079) · [Code](https://github.com/tuotuoLyu/ForesightSafety-VLA) |
-| **CoMaTrack**<br><sub>ECCV 2026 · Third author</sub> | **Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**<br>Competitive multi-agent reinforcement learning for embodied visual tracking.<br>[Paper · ECCV](https://eccv.ecva.net/virtual/2026/poster/3708) · [Proceedings](https://link.springer.com/chapter/10.1007/978-3-032-37574-2_14) |
-| **Spiking-WM**<br><sub>PNAS 2025</sub> | **Spiking world model with multicompartment neurons for model-based reinforcement learning**<br>Connecting dendritic computation, spiking networks, and world models.<br>[Paper](https://doi.org/10.1073/pnas.2513319122) · [Code](https://github.com/Brain-Cog-Lab/Spiking-WM) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://arxiv.org/abs/2510.09976"><img src="assets/work-fpo.svg" width="100%" alt="FPO — ICRA 2026 · Co-first author"></a>
+      <b>Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models</b><br>
+      <sub>Online reinforcement learning for flow-matching VLA policies.</sub>
+      <p><a href="https://arxiv.org/abs/2510.09976">Paper</a> · <a href="https://github.com/tuotuoLyu/FPO">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://arxiv.org/abs/2606.27079"><img src="assets/work-foresight.svg" width="100%" alt="ForesightSafety-VLA — IROS 2026 · Co-first author"></a>
+      <b>A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models</b><br>
+      <sub>Diagnosing physical, instruction, and perception risks in robot policies.</sub>
+      <p><a href="https://arxiv.org/abs/2606.27079">Paper</a> · <a href="https://github.com/tuotuoLyu/ForesightSafety-VLA">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://eccv.ecva.net/virtual/2026/poster/3708"><img src="assets/work-comatrack.svg" width="100%" alt="CoMaTrack — ECCV 2026 · Third author"></a>
+      <b>Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models</b><br>
+      <sub>Competitive multi-agent reinforcement learning for embodied visual tracking.</sub>
+      <p><a href="https://eccv.ecva.net/virtual/2026/poster/3708">Paper · ECCV</a> · <a href="https://link.springer.com/chapter/10.1007/978-3-032-37574-2_14">Proceedings</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://doi.org/10.1073/pnas.2513319122"><img src="assets/work-spiking-wm.svg" width="100%" alt="Spiking-WM — PNAS 2025"></a>
+      <b>Spiking world model with multicompartment neurons for model-based reinforcement learning</b><br>
+      <sub>Connecting dendritic computation, spiking networks, and world models.</sub>
+      <p><a href="https://doi.org/10.1073/pnas.2513319122">Paper</a> · <a href="https://github.com/Brain-Cog-Lab/Spiking-WM">Code</a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>More papers</b></summary>
@@ -64,25 +77,25 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 ## Research & industry experience
 
 ### WILL · WizardQuant (宽德投资)
-<sub>Aug 2026 – Present · Physical simulation & foundation-model post-training</sub>
+<sub>🟣 Aug 2026 – Present · Physical simulation & foundation-model post-training</sub>
 
 - Develop and debug physics simulation environments.
 - Work on reinforcement-learning post-training for foundation models.
 
 ### 细胞壁科技
-<sub>Mar 2026 – Jul 2026 · Research Intern</sub>
+<sub>🔵 Mar 2026 – Jul 2026 · Research Intern</sub>
 
 - Study cross-episode memory and in-context learning for frozen VLA backbones.
 - Explore memory-augmented human–robot interaction to improve adaptation and sample efficiency.
 
 ### Amap (高德地图)
-<sub>Dec 2025 – Feb 2026 · Research Intern · CoMaTrack</sub>
+<sub>🟠 Dec 2025 – Feb 2026 · Research Intern · CoMaTrack</sub>
 
 - Research competitive multi-agent tracking and game-theoretic interactions for VLA policies.
 - Third author of [CoMaTrack](https://eccv.ecva.net/virtual/2026/poster/3708), published in the ECCV 2026 proceedings.
 
 ### Ant Group (蚂蚁集团)
-<sub>Oct 2025 – Dec 2025 · AI Safety Research</sub>
+<sub>🟢 Oct 2025 – Dec 2025 · AI Safety Research</sub>
 
 - Research lightweight, transferable inference-time safety alignment for LLMs.
 - Contributed to [single-neuron self-reflection for LLM safety](https://arxiv.org/abs/2602.02027), balancing generation safety and model utility.
@@ -108,6 +121,5 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 <sub>Python · JAX · PyTorch · C++ · ROS · MuJoCo · RoboTwin · LIBERO · Isaac Sim · LaTeX</sub>
 
----
-
-<p align="center"><sub>Let's talk about robot learning, world models, and safe embodied AI.<br><a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a></sub></p>
+<p align="center"><a href="mailto:lvmingyang2024@ia.ac.cn"><img src="assets/profile-footer.svg" width="100%" alt="Safe robots. Robust policies. Colorful ideas. Let's talk about robot learning, world models, and safe embodied AI."></a></p>
+<p align="center"><a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a></p>
