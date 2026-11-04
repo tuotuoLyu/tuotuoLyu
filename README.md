@@ -76,11 +76,7 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 ## Research & industry experience
 
-### WILL · WizardQuant (宽德投资)
-<sub>🟣 Aug 2026 – Present · Physical simulation & foundation-model post-training</sub>
 
-- Develop and debug physics simulation environments.
-- Work on reinforcement-learning post-training for foundation models.
 
 ### 细胞壁科技
 <sub>🔵 Mar 2026 – Jul 2026 · Research Intern</sub>
