@@ -10,6 +10,7 @@
   <a href="https://scholar.google.com/citations?user=sCrVbNsAAAAJ"><img src="assets/link-scholar.svg" width="160" alt="Google Scholar"></a>
   <a href="https://openreview.net/profile?id=~Mingyang_Lyu2"><img src="assets/link-openreview.svg" width="135" alt="OpenReview"></a>
   <a href="https://orcid.org/0009-0000-6374-9113"><img src="assets/link-orcid.svg" width="99" alt="ORCID"></a>
+  <a href="https://www.alphaxiv.org/@mingyang-lyu"><img src="https://img.shields.io/badge/alphaXiv-Research_Profile-BB4B4B?style=flat-square&labelColor=ffffff" height="28" alt="alphaXiv"></a>
   <a href="mailto:lvmingyang2024@ia.ac.cn"><img src="assets/link-email.svg" width="254" alt="lvmingyang2024@ia.ac.cn"></a>
 </p>
 
@@ -20,7 +21,11 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 - **Institute of Automation, Chinese Academy of Sciences (CASIA)** — National Key Laboratory of Cognition and Decision Intelligence for Complex Systems; working with [Pin Lyu](https://people.ucas.ac.cn/~lvpin).
 - **Zhongguancun Academy** — advised by [Chen Gao](https://fi.ee.tsinghua.edu.cn/~gaochen/).
 
-<sub>Background: B.Eng. in Automation, Xi’an Jiaotong University (2024) · Graduate research at CASIA / UCAS since 2024.</sub>
+## Education
+
+- **PhD studies, CASIA / UCAS & Zhongguancun Academy** · 2026–2029 (expected). Research in robot learning, vision-language-action models, world models, and safe embodied intelligence.
+- **Master's studies, CASIA / UCAS** · 2024–2026.
+- **B.Eng. in Automation, Xi’an Jiaotong University** · Sep 2020–Jun 2024. Minor in English.
 
 ## Research focus
 
@@ -29,6 +34,12 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
   <img src="assets/research-world-models.svg" width="250" alt="World models: dynamics, memory, and model-based robot control">
   <img src="assets/research-safety.svg" width="250" alt="Safe intelligence: embodied safety, reliability, and LLM alignment">
 </p>
+
+## Recent preprints
+
+- **[SPIRE](https://arxiv.org/abs/2611.14840)** — Task-agnostic embodied continual learning through autonomous situation inference and causal motor-primitive reuse.
+- **[SPT-Flow](https://arxiv.org/abs/2610.41273)** — One Integration, Many Futures in Continuous-Time World Models.
+- **[TRACE](https://arxiv.org/abs/2610.41275)** — Target-State Risk-Aligned Conditional Execution for Embodied Tracking.
 
 ## Selected work
 
@@ -76,7 +87,11 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 ## Research & industry experience
 
+### Wizard Quant (宽德投资) · WILL
+<sub>🟣 Aug 2026 – Present · Research Intern</sub>
 
+- Develop and debug physical simulation environments.
+- Work on reinforcement-learning post-training for foundation models.
 
 ### 细胞壁科技
 <sub>🔵 Mar 2026 – Jul 2026 · Research Intern</sub>
@@ -119,3 +134,4 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 <p align="center"><a href="mailto:lvmingyang2024@ia.ac.cn"><img src="assets/profile-footer.svg" width="100%" alt="Safe robots. Robust policies. Colorful ideas. Let's talk about robot learning, world models, and safe embodied AI."></a></p>
 <p align="center"><a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a></p>
+
