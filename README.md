@@ -11,7 +11,6 @@
   <a href="https://openreview.net/profile?id=~Mingyang_Lyu2"><img src="assets/link-openreview.svg" width="135" alt="OpenReview"></a>
   <a href="https://orcid.org/0009-0000-6374-9113"><img src="assets/link-orcid.svg" width="99" alt="ORCID"></a>
   <a href="https://www.alphaxiv.org/@mingyang-lyu"><img src="https://img.shields.io/badge/alphaXiv-Research_Profile-BB4B4B?style=flat-square&labelColor=ffffff" height="28" alt="alphaXiv"></a>
-  <a href="mailto:lvmingyang2024@ia.ac.cn"><img src="assets/link-email.svg" width="254" alt="lvmingyang2024@ia.ac.cn"></a>
 </p>
 
 ## About
@@ -132,6 +131,5 @@ I study how embodied agents can **learn, imagine, and act reliably**. My work co
 
 <sub>Python · JAX · PyTorch · C++ · ROS · MuJoCo · RoboTwin · LIBERO · Isaac Sim · LaTeX</sub>
 
-<p align="center"><a href="mailto:lvmingyang2024@ia.ac.cn"><img src="assets/profile-footer.svg" width="100%" alt="Safe robots. Robust policies. Colorful ideas. Let's talk about robot learning, world models, and safe embodied AI."></a></p>
-<p align="center"><a href="mailto:lvmingyang2024@ia.ac.cn">lvmingyang2024@ia.ac.cn</a></p>
+<p align="center"><img src="assets/profile-footer.svg" width="100%" alt="Safe robots. Robust policies. Colorful ideas. Let's talk about robot learning, world models, and safe embodied AI."></p>
 
